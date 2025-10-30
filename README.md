@@ -1,4 +1,4 @@
-# Astronet-ASIC-v9.1
+
 
 # AstroNet ASIC v9.1 – README  
 **Fully Patched, Radiation-Hardened, Neuromorphic Space SoC**  
