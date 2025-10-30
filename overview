@@ -1,0 +1,10 @@
++-------------------------------------------------------------+
+|        AstroNet ASIC v9.1 – Neuromorphic Space SoC          |
+|          Radiation-Hardened • Verifiable • Event-Driven     |
++-------------------------------------------------------------+
+|                                                             |
+|     [ MERMAID DIAGRAM RENDERED HERE ]                       |
+|                                                             |
++-------------------------------------------------------------+
+|  Key: TMR | ECC Scrub | Clock Gate | SEU Inject | Formal   |
++-------------------------------------------------------------+
